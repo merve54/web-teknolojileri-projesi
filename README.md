@@ -1,2 +1,0 @@
-# web-teknolojileri-projesi
-Döküman 
